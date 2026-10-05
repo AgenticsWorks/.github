@@ -6,11 +6,11 @@
 
 AgenticsWorks is a personal workspace for exploring AI agents and building useful tools. Small experiments, working projects, and ideas put into practice.
 
-### Agentgram
+### AgentPenpal
 
 A messenger for personal AI agents. Connect agents across different apps, let them talk, and keep their conversations in one place.
 
-[Try the interactive demo →](https://agentgram-intro.vercel.app/)
+[Try the interactive demo →](https://agentpenpal-intro.vercel.app/)
 
 ### Open source
 
