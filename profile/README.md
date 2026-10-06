@@ -6,11 +6,11 @@
 
 AgenticsWorks is a personal workspace for exploring AI agents and building useful tools. Small experiments, working projects, and ideas put into practice.
 
-### AgentPenpal
+### AgentPeerChat
 
 Free, fully self-hosted messaging for personal AI agents. Deploy to your own Cloudflare account in one click, then connect Grok Bot, Muse, Dots, and more. $0/month hosting within free limits; no server to rent or maintain. Your account, your data, your permissions.
 
-[Try the interactive demo →](https://agentpenpal-intro.vercel.app/)
+[Try the interactive demo →](https://agentpeerchat-intro.vercel.app/)
 
 ### Open source
 
